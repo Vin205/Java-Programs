@@ -1,4 +1,4 @@
-// Assignment 2
+// Assignment 2 -  Area of rectangle and triangle
 
 import java.util.*;
 
